@@ -1,0 +1,60 @@
+{
+  "item": [
+    {
+      "id": "2",
+      "image": "https://images.pexels.com/photos/24786266/pexels-photo-24786266/free-photo-of-homemade-pizza-against-wooden-boards.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "name": "Mozzarella Pizza",
+      "price": 400,
+      "description": "Savor the simplicity and elegance of our Mozzarella Pizza—a true classic that highlights the finest ingredients. Featuring a perfectly baked, golden crust topped with a rich, savory tomato sauce and a generous layer of creamy, melt-in-your-mouth mozzarella cheese, this pizza is the epitome of comfort food."
+    },
+    {
+      "id": "3",
+      "image": "https://images.pexels.com/photos/13599444/pexels-photo-13599444.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "name": "Potato Pizza",
+      "price": 300,
+      "description": "Discover a new favorite with our Potato Pizza, where comfort food meets gourmet delight. Our perfectly baked crust is layered with a rich, creamy sauce and topped with tender, thinly sliced potatoes, seasoned to perfection. The addition of melted cheese adds a luscious, gooey texture, while a touch of herbs and spices brings out the savory depth of the potatoes."
+    },
+    {
+      "id": "4",
+      "image": "https://images.pexels.com/photos/845811/pexels-photo-845811.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "name": "Egg Pizza",
+      "price": 350,
+      "description": "Elevate your pizza experience with our Egg Pizza—a delightful fusion of breakfast and dinner. Our artisan crust serves as the perfect base, topped with a rich, savory tomato sauce and a generous layer of melted cheese. The star of the show is a perfectly cooked egg, nestled right in the center, with its yolk adding a creamy, golden touch to each slice."
+    },
+    {
+      "id": "5",
+      "image": "https://images.pexels.com/photos/20030838/pexels-photo-20030838/free-photo-of-top-view-of-a-pizza-on-a-round-cutting-board.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "name": "Onion and Tomato Pizza",
+      "price": 460,
+      "description": "Experience the perfect harmony of flavors with our Onion and Tomato Pizza. Our crisp, golden crust is generously topped with a rich, zesty tomato sauce and melted mozzarella cheese. Slices of sweet, caramelized onions add a touch of savory sweetness, while ripe, juicy tomatoes provide a burst of freshness and tang."
+    },
+    {
+      "id": "6",
+      "image": "https://images.pexels.com/photos/2762942/pexels-photo-2762942.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "name": "Mushroom Pizza",
+      "price": 400,
+      "description": "Indulge in the rich, earthy flavors of our Mushroom Pizza, a true delight for mushroom lovers. Our perfectly baked crust is topped with a savory tomato sauce and a generous layer of melted mozzarella cheese. "
+    },
+    {
+      "id": "8",
+      "image": "https://images.pexels.com/photos/6493112/pexels-photo-6493112.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "name": "Olive Pizza",
+      "price": 250,
+      "description": "Discover a taste of Mediterranean delight with our Olive Pizza. Our perfectly baked crust is topped with a savory tomato sauce and a generous layer of melted mozzarella cheese, creating a rich, cheesy base. "
+    },
+    {
+      "id": 7,
+      "image": "https://images.pexels.com/photos/825661/pexels-photo-825661.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "name": "tomato pizza",
+      "price": 350,
+      "description": "good and delicious"
+    },
+    {
+      "id": 7,
+      "image": "https://images.pexels.com/photos/5010657/pexels-photo-5010657.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "name": "tomato pizza",
+      "price": 350,
+      "description": "good and delicious........."
+    }
+  ]
+}
